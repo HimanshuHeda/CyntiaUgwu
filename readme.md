@@ -1,5 +1,5 @@
-CyntiaUgwu Project
-Project Overview
+**CyntiaUgwu Project**
+**Project Overview**
 The CyntiaUgwu project is designed to [brief description of the project]. This project addresses [problem or functionality] and provides users with [benefits or features]. The main objective of this project is to [goal or purpose].
 
 Features
